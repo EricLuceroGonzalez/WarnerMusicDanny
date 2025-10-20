@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# 🌟 WarnerMusicDanny: Proyecto Temático de Warner Music
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Estado del Proyecto](https://img.shields.io/badge/Estado-Finalizado-success)](https://github.com/EricLuceroGonzalez/WarnerMusicDanny)
+[![Licencia](https://img.shields.io/github/license/EricLuceroGonzalez/WarnerMusicDanny?color=blue)](LICENSE)
 
-## Available Scripts
+## 📝 Descripción del Proyecto
 
-In the project directory, you can run:
+Este repositorio contiene un proyecto o demostración relacionado con la discográfica **Warner Music** y el artista/entidad **Danny**. Puede ser una landing page promocional, una herramienta para gestionar datos de artistas o una integración de API.
 
-### `npm start`
+## 🚀 Tecnologías Clave
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* **Frontend:** HTML5, CSS3.
+* **Posible Backend:** [...Poner aquí: Ej. PHP, Node.js, o solo HTML/CSS/JS si es estático...]
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## ⚙️ Instalación y Configuración
 
-### `npm test`
+### Prerrequisitos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Un navegador web.
 
-### `npm run build`
+### Pasos de Instalación
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1.  **Clonar el Repositorio:**
+    ```bash
+    git clone [https://github.com/EricLuceroGonzalez/WarnerMusicDanny.git](https://github.com/EricLuceroGonzalez/WarnerMusicDanny.git)
+    cd WarnerMusicDanny
+    ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Ejecución del Proyecto
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* Si es una página estática, simplemente abre el `index.html`.
+* Si requiere backend:
+    ```bash
+    [...Comando de ejecución del servidor, Ej: php -S localhost:8000...]
+    ```
+## 🤝 Contribución
 
-### `npm run eject`
+Aunque este es un repositorio de portfolio personal, si encuentras algún error (typo, problema de diseño, etc.), ¡siéntete libre de abrir un *Issue* o enviar un *Pull Request*!
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+1.  Haz un `fork` del repositorio.
+2.  Crea una nueva rama (`git checkout -b feature/nueva-seccion`).
+3.  Realiza tus cambios y haz `commit` (`git commit -m 'feat: Añadir nueva sección de contacto'`).
+4.  Empuja tus cambios (`git push origin feature/nueva-seccion`).
+5.  Abre un `Pull Request`.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## ✍️ Autor
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* **Eric Lucero González** - [GitHub](https://github.com/EricLuceroGonzalez)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 📄 Licencia
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Este proyecto se distribuye bajo la Licencia **MIT**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
